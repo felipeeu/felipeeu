@@ -1,12 +1,8 @@
-## Felipe Domingues  
+## 👋 Here I am , Felipe Domingues  
 
-Full-stack software developer since 2018 building scalable web applications.
+> 👨‍💻 Full-stack software developer since 2018 building scalable web applications.
 
-
-
-**Background**
-
-15 years as a chemistry teacher honed my critical thinking and problem-solving skills.
+> 👨‍🔬 Chemistry teacher since 2006 honed my critical thinking and problem-solving skills.
 
 ## 📫 How to reach me out
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-domingues-24b66213/)
@@ -23,11 +19,15 @@ Full-stack software developer since 2018 building scalable web applications.
 [![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)](https://clojure.org/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
- ## **Certifications** 
- 
- Salesforce Certified Developer  
- MuleSoft Certified Developer
+ ## 🎖**Certifications** 
+<section style= "display=flex">
+<img height="120em" src="https://developer.salesforce.com/resources2/certification-site/images/2024/2024-02_SF-Cert-Badge_MuleSoft-Developer-I.svg"/>
+<img height="120em" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/JavaScript-Developer-I.png"/>
+</section>
 
+## 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeeu&layout=compact&hide=css,html)
 
 <!--
 **felipeeu/felipeeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
