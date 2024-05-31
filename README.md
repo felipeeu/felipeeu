@@ -1,4 +1,4 @@
-## 👋 Here I am , Felipe Domingues  
+## 👋 Here I am:    Felipe Domingues 💫
 
 > 👨‍💻 Full-stack software developer since 2018 building scalable web applications.
 
@@ -20,7 +20,7 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
  ## 🎖**Certifications** 
-<section style= "display=flex">
+<section>
 <img height="120em" src="https://developer.salesforce.com/resources2/certification-site/images/2024/2024-02_SF-Cert-Badge_MuleSoft-Developer-I.svg"/>
 <img height="120em" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/JavaScript-Developer-I.png"/>
 </section>
