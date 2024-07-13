@@ -5,7 +5,7 @@
 > 👨‍🔬 Chemistry teacher since 2006 honed my critical thinking and problem-solving skills.
 
 ## 📫 How to reach me out
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-domingues-24b66213/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-react-dev/)
 
 
 ## 🖥  Languages & Tools
